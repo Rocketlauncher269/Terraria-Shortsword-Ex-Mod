@@ -1,0 +1,3 @@
+displayName = Shortsword EX Mod
+author = Rocketlauncher269
+version = 0.2
